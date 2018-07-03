@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/material_vertex.vs</file>
+        <file>shaders/material_frag.fs</file>
+        <file>shaders/texture_vertex.vs</file>
+        <file>shaders/texture_frag.fs</file>
+        <file>shaders/vshader.vs</file>
+        <file>shaders/fshader.fs</file>
+        <file>textures/back.jpg</file>
+        <file>textures/bottom.jpg</file>
+        <file>textures/front.jpg</file>
+        <file>textures/left.jpg</file>
+        <file>textures/right.jpg</file>
+        <file>textures/top.jpg</file>
+        <file>shaders/skybox.fs</file>
+        <file>shaders/skybox.vs</file>
+        <file>textures/img.png</file>
+        <file>textures/img.jpg</file>
+        <file>models/body.mtl</file>
+        <file>models/body.obj</file>
+        <file>models/che.mtl</file>
+        <file>models/che.obj</file>
+        <file>models/g.jpg</file>
+        <file>models/gray.jpg</file>
+        <file>models/ground.mtl</file>
+        <file>models/ground.obj</file>
+        <file>models/house.jpg</file>
+        <file>models/recd.jpg</file>
+        <file>models/red.jpg</file>
+        <file>models/t.mtl</file>
+        <file>models/t.obj</file>
+        <file>models/tree.jpg</file>
+        <file>models/uv.jpg</file>
+        <file>models/wBL.mtl</file>
+        <file>models/wBL.obj</file>
+        <file>models/wBR.mtl</file>
+        <file>models/wBR.obj</file>
+        <file>models/wFL.mtl</file>
+        <file>models/wFL.obj</file>
+        <file>models/wFR.mtl</file>
+        <file>models/wFR.obj</file>
+        <file>models/yezi.jpg</file>
+        <file>shaders/directional_light.fs</file>
+    </qresource>
+</RCC>
