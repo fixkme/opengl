@@ -58,7 +58,7 @@ RESOURCES += \
     res.qrc
 
 
-INCLUDEPATH += D:/Lixin/Qt/Projects/qtopengl/include
+INCLUDEPATH += $$PWD/include
 
-LIBS += D:/Lixin/Qt/Projects/qtopengl/lib/*.lib
+LIBS += $$PWD/lib/*.lib
 
